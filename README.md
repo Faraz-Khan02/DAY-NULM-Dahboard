@@ -70,4 +70,6 @@ LEFT JOIN
     states_uts st ON d.state_id = st.state_id
 LEFT JOIN
     state_zones sz ON st.sz_id = sz.sz_id
-	where s.ward_id= w.ward_id
+	where s.ward_id= w.ward_id;
+
+ 
