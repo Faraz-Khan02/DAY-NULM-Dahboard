@@ -1,4 +1,5 @@
 # DAY-NULM-Dashboard
+*In this project, I designed an interactive dashboard with multiple tables, including SHGs, beneficiaries, ALF, CLF, states_UTs, states_zones, districts, ULBs, and more. My team and I imported data based on specific requirements and then wrote optimized queries to retrieve relevant data. This process enabled us to build a dynamic and interactive dashboard that provides clear insights for decision-making.*
 SELECT
     b.beneficiary_id,
     bcgw.gender AS gender_category,
